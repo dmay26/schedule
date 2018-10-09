@@ -7,6 +7,8 @@ class Library extends Component {
             <div className="library">
                 <h1 className="library_title">Course Library</h1>
                 <LibraryCourse/>
+                <LibraryCourse/>
+                <LibraryCourse/>
             </div>
         )
     }
